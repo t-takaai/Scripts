@@ -10,16 +10,12 @@
 	<string>applet</string>
 	<key>CFBundleIconFile</key>
 	<string>applet</string>
-	<key>CFBundleIdentifier</key>
-	<string>com.apple.ScriptEditor.id.ConnectElectron01WiFi</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>ConnectElectron01WiFi</string>
+	<string>ClamshellWake</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
-	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
 	<key>CFBundleSignature</key>
 	<string>aplt</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
@@ -31,22 +27,18 @@
 	<true/>
 	<key>WindowState</key>
 	<dict>
-		<key>bundleDividerCollapsed</key>
-		<true/>
-		<key>bundlePositionOfDivider</key>
-		<real>0.0</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
-		<integer>2</integer>
+		<integer>-1</integer>
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
-		<real>256</real>
+		<real>535</real>
 		<key>savedFrame</key>
-		<string>196 428 700 672 0 0 1920 1177 </string>
-		<key>selectedTab</key>
-		<string>result</string>
+		<string>87 60 750 718 0 0 1280 778 </string>
+		<key>selectedTabView</key>
+		<string>event log</string>
 	</dict>
 </dict>
 </plist>
